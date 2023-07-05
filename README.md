@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @Neji04
+- 👀 I'm interested in programming
+- 🌱 I am currently still a student
+- 💞️ I'm looking for ideas for my projects
